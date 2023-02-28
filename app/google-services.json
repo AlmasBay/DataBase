@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434988523796",
+    "project_id": "database1-27f0b",
+    "storage_bucket": "database1-27f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434988523796:android:03d58d703c98988c7ce201",
+        "android_client_info": {
+          "package_name": "com.example.almasdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434988523796-a4on2v20t3v02q6m4vpbtjmn7dv7h4a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUK4hca9evM8byDYHFxtIz-rByA0E3DeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434988523796-a4on2v20t3v02q6m4vpbtjmn7dv7h4a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
